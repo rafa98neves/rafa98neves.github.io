@@ -1,0 +1,1 @@
+import{E as e,v as t}from"./app-C4Hj55fr.js";function n(){let n=e(!1);return t(()=>{if(typeof document>`u`||!document.fonts){n.value=!0;return}let e=!1,t=()=>{e||(e=!0,n.value=!0)},r=setTimeout(t,400);document.fonts.ready.then(()=>{clearTimeout(r),t()})}),{ready:n}}export{n as t};
